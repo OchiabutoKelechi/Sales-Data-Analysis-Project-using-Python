@@ -9,7 +9,7 @@ The primary objective of the project is to analyze sales data to:
 - Identify trends, patterns, and outliers to support data-driven decision-making.
 - Provide actionable insights for business optimization and strategy formulation.
   
-Kindly click [here](https://www.kaggle.com/code/ochiabutokelechi/sales-data-analysis-with-python) to read about the project in detail on my Kaggle repository. You can also download the Python file of this project in the file section above.
+##### Kindly click [here](https://www.kaggle.com/code/ochiabutokelechi/sales-data-analysis-with-python) to read about the project in detail on my Kaggle repository. You can also download the Python file of this project in the file section above.
 
 ### Dataset
 The dataset contains information on transactions, including:
