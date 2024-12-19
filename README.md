@@ -21,9 +21,13 @@ The dataset contains information on transactions, including:
 - ShoppingMall
 - Gender
 - Age
-- Payment Methods	
+- Payment Methods
+- TotalSales
+- Year
+- Month
+- Day
 
-##### Derived Metrics:
+#### Derived Metrics:
 - TotalSales: Total revenue per transaction, derived as Quantity * Price.
 - Extracted columns from InvoiceDate column: Year, Month, and Day to facilitate time-based analysis.
 
